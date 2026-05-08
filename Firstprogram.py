@@ -120,6 +120,6 @@ print("area =", a * a)"""
 b = int(input("enter second :"))
 print("avg =", (a + b) / 2)"""
 
-"""a = int(input("enter first :"))
+a = int(input("enter first :"))
 b = int(input("enter second :"))
-print(a >= b)"""
+print(a >= b)
