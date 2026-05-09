@@ -1,7 +1,7 @@
 # #--> variable is a name give to a memory location in a program
-# name = "Aashika"
-# age = 22
-# price = 28.8
+ name = "Aashika"
+ age = 22
+ price = 28.8
 
 # age2=age 
 
