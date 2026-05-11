@@ -89,36 +89,35 @@ b = 4.25
 sum = a + b
 print(sum)"""
 
-"""a = "5"   type casting
+a = "5"   type casting
 b = int(a)
 c = 10
-print(b + c)"""
+print(b + c)
 
-"""name = input("enter your name: ")
+name = input("enter your name: ")
 print("welcome ", name)"""
-"""val = input("enter some value : ")
-print(type(val), val)"""
-"""int("5")
+val = input("enter some value : ")
+print(type(val), val)
+int("5")
 val = int(input("enter some value : "))
-print(type(val), val)"""
+print(type(val), val)
 
-"""name = input("enter name :")
+name = input("enter name :")
 age = input("enter age:")
 marks = input("enter marls: ")
 print("welcome ", name)
 print("age =", age)
-print("marks =", marks)"""
+print("marks =", marks)
 
-"""a = int(input("enter 1st num :"))
+a = int(input("enter 1st num :"))
 b = int(input("enter 2nd num :"))
-print("sum =", a + b)"""
+print("sum =", a + b)
 
-"""a = int(input("enter side of square :"))
-print("area =", a * a)"""
-
-"""a = int(input("enter first :"))
+a = int(input("enter side of square :"))
+print("area =", a * a)
+a = int(input("enter first :"))
 b = int(input("enter second :"))
-print("avg =", (a + b) / 2)"""
+print("avg =", (a + b) / 2)
 
 a = int(input("enter first :"))
 b = int(input("enter second :"))
